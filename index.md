@@ -1,91 +1,87 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV Mattia Vitturi
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mattia Vitturi
+Consulente informatico, sviluppatore, freelance.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="mailto:mattia@mvcodelabs.it">mattia@mvcodelabs.it</a>
+  <a href="https://www.linkedin.com/in/vitturimattia">LinkedIn</a>
 </div>
 
 
-## Currently
+## Chi sono
 
-Standing on the shoulders of giants
+Smanettone e appassionato di tecnologia fin da bambino. Nel lavoro e nella vita dedico il massimo alle persone che stanno intorno a me, incoraggiandole e superando ogni ostacolo insieme.
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Ogni progetto si basa su principi forti di personalità e tocco umano, soprattutto in un ambiente così freddo come il software.
 
 
-### Research interests
+## Competenze
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+ - Problem Solving
+ - Full-Stack Developer
+ - Project Management
+ - Critical Thinking
 
 
+## Esperienza
 
-## Awards
+`Giugno 2022 - Presente`
+__CTO__, Eathic
+  
+  - Ideazione e sviluppo della piattaforma Eathic e tutti i processi annessi, tra cui
+    - Engine automatico di prenotazione online
+    - E-commerce custom tra fornitori e ristoratori
 
-`2012`
-President, *Royal Society*, London, UK
+`Giugno 2022 - Presente`
+__Consulente Informatico__, MV CODELABS
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+ - Consulente e sviluppatore freelance, specializzato principalmente in web app.
+ - Sviluppo e vendita di prodotti interni.
+ - Gestione di collaboratori.
 
 
-## Occupation
+`Aprile 2022 - Presente`
+__Software Enginner__, Orizon Group
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
+## Progetti
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__Eathic__
+
+Eathic semplifica il lavoro di ristoratori e fornitori, in specifico
+
+ - Eathic Reservations permette ai ristoratori di ricevere e gestire con facilità le prenotazioni
+ - Eathic Marketplace crea un canale diretto tra fornitori e ristoratori, semplificando il processo di ordinazione tra di loro
+
+Tecnologie utilizzate
+ - [Frontend] React, NextJS
+ - [Backend] MySQL, TRPC, NodeJS, PrismaORM, Auth0
+ - Architettura multi-servizio serverless, divisa in 3 aree
+  - [Core] Autenticazione, gestione utenti, amministrazione
+  - [Reservations] Gestione prenotazioni
+  - [Marketplace] E-commerce custom
+
+__Menù Digitale__ (MV CODELABS)
+
+Il Menù Digitale accessibile a tutti. Sviluppato con un forte focus all'esperienza utente e alla semplicità di gestione da parte del ristoratore grazie a un gestionale drag&drop custom.
+
+__PeopleDJ__ (MV CODELABS)
+
+Jukebox dell'era digitale. Nel tuo locale preferito, scannerizza il qr code e metti in coda le canzoni che vuoi ascoltare mentre ti godi la serata.
+
+
+## Formazione
+
+`2021 - Corrente`
+__Ingegneria Informatica - Università degli Studi di Padova.__
+
 
 
 
 <!-- ### Footer
-
 Last updated: May 2013 -->
 
 
