@@ -51,10 +51,9 @@ __Software Enginner__, Orizon Group
 
 __Eathic__
 
-- Eathic semplifica il lavoro di ristoratori e fornitori, in specifico
-
-  - Eathic Reservations permette ai ristoratori di ricevere e gestire con facilità le prenotazioni
-  - Eathic Marketplace crea un canale diretto tra fornitori e ristoratori, semplificando il processo di ordinazione tra di loro
+  - Eathic semplifica il lavoro di ristoratori e fornitori, in specifico
+    - Eathic Reservations permette ai ristoratori di ricevere e gestire con facilità le prenotazioni
+    - Eathic Marketplace crea un canale diretto tra fornitori e ristoratori, semplificando il processo di ordinazione tra di loro
 
 
 __Menù Digitale__ (MV CODELABS)
