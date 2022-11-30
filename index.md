@@ -6,7 +6,7 @@ title: CV Mattia Vitturi
 Consulente informatico, sviluppatore, freelance.
 
 <div id="webaddress">
-  <a href="mailto:mattia@mvcodelabs.it">mattia@mvcodelabs.it</a>
+  <a href="mailto:mattia@mvcodelabs.it">mattia@mvcodelabs.it</a> - 
   <a href="https://www.linkedin.com/in/vitturimattia">LinkedIn</a>
 </div>
 
@@ -56,13 +56,6 @@ Eathic semplifica il lavoro di ristoratori e fornitori, in specifico
  - Eathic Reservations permette ai ristoratori di ricevere e gestire con facilità le prenotazioni
  - Eathic Marketplace crea un canale diretto tra fornitori e ristoratori, semplificando il processo di ordinazione tra di loro
 
-Tecnologie utilizzate
- - [Frontend] React, NextJS
- - [Backend] MySQL, TRPC, NodeJS, PrismaORM, Auth0
- - Architettura multi-servizio serverless, divisa in 3 aree
-  - [Core] Autenticazione, gestione utenti, amministrazione
-  - [Reservations] Gestione prenotazioni
-  - [Marketplace] E-commerce custom
 
 __Menù Digitale__ (MV CODELABS)
 
